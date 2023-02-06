@@ -1,7 +1,3 @@
-/*
-    IMPORTANT: This Class is a JUnit Test Class for the MovieAPI Class!
- */
-
 package my.app;
 
 import java.util.List;
